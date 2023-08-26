@@ -1,9 +1,9 @@
 # SKING-TECH
 
-rm -rf SKING-TECH
+cd && rm -rf SKING-TECH
 
-git clone https://github.com/shahzadrahimy/SKING-TECH.git
+git clone https://github.com/shahzadrahimy/SKING-TECH
 
 cd SKING-TECH
 
-python S-TECH.py
+python3 SKING.pyc
