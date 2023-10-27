@@ -1,2 +1,2 @@
 import os,sys
-os.system('python S-TECH.py')
+os.system('python S-TECH.pyc')
